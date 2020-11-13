@@ -2,28 +2,28 @@
 ​
   ## Description
   An app designed to help active individuals stay on track with their fitness routine by allowing them to create, track and save workouts.
+  ## Links 
+  <a href="https://workout-buddy01.herokuapp.com/stats"><h3>Deployed link</h3></a>
 ​
   ## Table of Contents
-  1. [Description](#description)
-  2. [Installation](#installation)
-  3. [Usage](#usage)
-  4. [License](#license)
-  5. [Contributing](#contributing)
-  6. [Tests](#tests)
-  7. [Questions](#questions)
+  1. [Installation](#installation)
+  2. [License](#license)
+  3. [Contributing](#contributing)
+  4. [Tests](#tests)
+  5. [Questions](#questions)
 ​
   ## Installation
-  Make sure you have node.js installed on your system, and run npm install to download all necessary documentation.
+  After cloning down the repository, ensure you have node.js installed on your system, and run npm install to download all necessary documentation.
 ​
 ​
   ## License
   This application is licensed under the None license.
 ​
   ## Contributing
-  <a href="https://github.com/hallewehmeyer"><h2>My Github</h2>
+  <a href="https://github.com/hallewehmeyer"><h3>Halle Wehmeyer</h3></a>
 ​
   
 ​
   ## Questions
-  <a href="https://github.com/hallewehmeyer>GitHub Profile</a>
-  <br>
+  <a href="https://github.com/hallewehmeyer"><h3>Contact me</h3></a>
+  
